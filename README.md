@@ -6,7 +6,7 @@ Tregar is a leading dairy company dedicated to providing high-quality dairy prod
 
 <h2>Website Deployment</h2>
 
-We have deployed our company website using GitHub Pages for seamless access. <a href="https://github.com/Pipe-Garcia/ecology-store"> Click here </a> to visit the deployed site and explore our range of dairy products!
+We have deployed our company website using GitHub Pages for seamless access. <a href="https://pipe-garcia.github.io/project-Tregar/"> Click here </a> to visit the deployed site and explore our range of dairy products!
 Technologies Used
 
     HTML
