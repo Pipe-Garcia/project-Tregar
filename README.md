@@ -6,15 +6,23 @@ Tregar is a leading dairy company dedicated to providing high-quality dairy prod
 
 <h2>Website Deployment</h2>
 
-We have deployed our company website using GitHub Pages for seamless access. <a href="https://pipe-garcia.github.io/project-Tregar/"> Click here </a> to visit the deployed site and explore our range of dairy products!
-Technologies Used
+I've deployed this company website using GitHub Pages for seamless access. <a href="https://pipe-garcia.github.io/project-Tregar/"> Click here </a> to visit the deployed site.
 
-    HTML
-    CSS
+<h2>Technologies Used</h2>
 
-Get Started
+  <ul>
+    <li>HTML</li>  
+    <li>CSS</li>
+  </ul>
+  
+<h2>Get Started</h2>
 
-To get started with exploring our website, simply visit the deployed site using the link provided above. Feel free to browse through our products and learn more about our company!
-Contributing
+To get started with exploring this website, simply visit the deployed site using the link provided above. Feel free to browse through that products and learn more about the  company!
+<h2>Contributing</h2>
 
 Contributions to our website are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
+
+<h2>Authors</h2>
+Garcia Felipe <br>
+Mantovani Marcos
+
